@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5FBBCDFB-4738-4478-9301-949298C652F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE00D2F-9787-4BB0-B56B-D9E5D9BF05B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LetsFast/FastingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5FE00D2F-9787-4BB0-B56B-D9E5D9BF05B5 - 614c5e44844272f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LetsFast.FastingPlan.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;LetsFast.FastingPlan&gt;"
+                  moduleName = "LetsFast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcbiggar/Projects/Swift/LetsFast/LetsFast/FastingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "5FE00D2F-9787-4BB0-B56B-D9E5D9BF05B5 - b5b2850921663011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LetsFast.FastingPlan.rawValue.getter : Swift.String"
+                  moduleName = "LetsFast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcbiggar/Projects/Swift/LetsFast/LetsFast/FastingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
